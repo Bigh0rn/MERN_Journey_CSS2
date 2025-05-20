@@ -1,0 +1,14 @@
+*{
+    color: aliceblue;
+    place-items: center;
+}
+img{
+    border: 5px solid white;
+    width: 200px;
+    margin-top: 5px;
+}
+div{
+    background-color: rgba(0, 0, 0, 0.3);
+    font-size: 0.75rem;
+
+}
